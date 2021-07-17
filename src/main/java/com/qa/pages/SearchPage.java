@@ -4,6 +4,6 @@ public class SearchPage {
 
 	public void searchPage()
 	{
-		System.out.println("This is a search page method");
+		System.out.println("This is a search page updated method");
 	}
 }
